@@ -1,9 +1,10 @@
+import Main from "./component/Main"
 
 
 function App() {
   return (
     <>
-    <h1 className="bg-red-400">heloooo</h1>
+    <Main/>
     </>
   )
 }
