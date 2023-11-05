@@ -1,0 +1,78 @@
+[{
+        "id": "1",
+        "img": "avatar-mark-webber.webp",
+        "name": "Mark Webber",
+        "react": "reacted to your post",
+        "post": "My first tournament toda!",
+        "time": "1m ago",
+        "msg": "",
+        "indicator": "yes",
+        "like": ""
+    },
+    {
+        "id": "2",
+        "img": "avatar-angela-gray.webp",
+        "name": "Angela Gray",
+        "react": "followed you",
+        "post": "",
+        "time": "5m ago",
+        "msg": "",
+        "indicator": "yes",
+        "like": ""
+    },
+    {
+        "id": "3",
+        "img": "avatar-jacob-thompson.webp",
+        "name": "Jacob Thompson",
+        "react": "has joind your groug",
+        "post": "Chess Club",
+        "time": "1 day ago",
+        "msg": "",
+        "indicator": "yes",
+        "like": ""
+    },
+    {
+        "id": "4",
+        "img": "avatar-rizky-hasanuddin.webp",
+        "name": "Rizky Hasanudding",
+        "react": "sent you a private message",
+        "post": "",
+        "time": "5 days ago",
+        "msg": "Hello, thanks for setting up the Chess Club.I've been a member for a few week now and i'm already having lots of fun and improving my games.",
+        "indicator": "no",
+        "like": ""
+    },
+    {
+        "id": "5",
+        "img": "avatar-kimberly-smith.webp",
+        "name": "Kimberly Smith",
+        "react": "commented on your picture",
+        "post": "",
+        "time": "1 week ago",
+        "msg": "",
+        "indicator": "no",
+        "like": "./images/image-chess.webp"
+    },
+    {
+        "id": "6",
+        "img": "avatar-nathan-peterson.webp",
+        "name": "Nathan Peterson",
+        "react": "react to your recent post",
+        "post": "5 end-game strategies to increase your win rate",
+        "time": "2 day ago",
+        "msg": "",
+        "indicator": "no",
+        "like": ""
+    },
+    {
+        "id": "7",
+        "img": "avatar-anna-kim.webp",
+        "name": "Anna Kim",
+        "react": "lef the group",
+        "post": "Chess Club",
+        "time": "2 week ago",
+        "msg": "",
+        "indicator": "no",
+        "like": ""
+    }
+]
